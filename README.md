@@ -14,3 +14,11 @@ Modules
 - [mlnx](http://www.mellanox.com/page/mlnx_os)
   - Why?
     - [Puppet configures Mellanox gear](http://www.mellanox.com/downloads/solutions/puppet/Puppet%20Automation%20for%20Mellanox%20Switch%20Systems.pdf).  
+
+
+Contribute
+----
+- Send a pull request:
+  - with your suggestions for the list
+  - to let the world know something on this list was born into the world
+  - anything else you'd like to say
