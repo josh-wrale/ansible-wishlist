@@ -4,6 +4,7 @@ How I Unabashedly Wish For Things I Haven't Created Myself
 
 Modules
 ----
+- [bind](https://en.wikipedia.org/wiki/BIND)
 - [cgroups](https://en.wikipedia.org/wiki/Cgroups)
   - Why?
     - [Abstracting cgroups amazes the industry!](https://news.ycombinator.com/item?id=7258721)
