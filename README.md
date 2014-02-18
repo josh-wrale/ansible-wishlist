@@ -14,7 +14,7 @@ Modules
     - [How can I manage hundreds of IPMI BMCs?](https://serverfault.com/questions/529399/how-can-i-manage-hundreds-of-ipmi-bmcs)
 - [mlnx](http://www.mellanox.com/page/mlnx_os)
   - Why?
-    - [Puppet configures Mellanox gear](http://www.mellanox.com/downloads/solutions/puppet/Puppet%20Automation%20for%20Mellanox%20Switch%20Systems.pdf).  
+    - [Mellanox supports Puppet configuration of the same](http://www.mellanox.com/downloads/solutions/puppet/Puppet%20Automation%20for%20Mellanox%20Switch%20Systems.pdf).
 
 
 Contribute
