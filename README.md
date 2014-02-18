@@ -12,6 +12,8 @@ Modules
     - To be continued...
   - Who might use it?
     - [How can I manage hundreds of IPMI BMCs?](https://serverfault.com/questions/529399/how-can-i-manage-hundreds-of-ipmi-bmcs)
+  - Possible solutions or work-arounds:
+    - [ansible-provisioning](https://github.com/ansible-provisioning/ansible-provisioning)
 - [mlnx](http://www.mellanox.com/page/mlnx_os)
   - Why?
     - [Mellanox supports Puppet configuration of the same](http://www.mellanox.com/downloads/solutions/puppet/Puppet%20Automation%20for%20Mellanox%20Switch%20Systems.pdf).
@@ -19,7 +21,7 @@ Modules
 
 Contribute
 ----
-- Send a pull request or open an issue --
+- Send a pull request or open an issue:
   - with your suggestions for the list.
   - to let the world know something on this list was born into the world.
   - to tell us all something on your mind.
