@@ -18,7 +18,7 @@ Modules
 
 Contribute
 ----
-- Send a pull request:
-  - with your suggestions for the list
-  - to let the world know something on this list was born into the world
-  - anything else you'd like to say
+- Send a pull request or open an issue --
+  - with your suggestions for the list.
+  - to let the world know something on this list was born into the world.
+  - to tell us all something on your mind.
