@@ -18,6 +18,7 @@ Modules
 - [mlnx](http://www.mellanox.com/page/mlnx_os)
   - Why?
     - [Mellanox supports Puppet configuration of the same](http://www.mellanox.com/downloads/solutions/puppet/Puppet%20Automation%20for%20Mellanox%20Switch%20Systems.pdf).
+- [ovirt](http://www.ovirt.org)
 - [sr-iov](http://www.intel.ph/content/dam/www/public/us/en/documents/technology-briefs/ethernet-x520-sr-iov-red-hat-tech-brief.pdf)
 
 Contribute
